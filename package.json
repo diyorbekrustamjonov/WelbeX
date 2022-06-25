@@ -1,0 +1,19 @@
+{
+  "name": "welbex",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Welbex notes management app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start:dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "Welbex",
+    "Welbex Note App",
+    "Welbex Note App API",
+    "Welbex Note App API NodeJS"
+  ],
+  "author": "Diyorbek Rustamjonov <drustamjonov0919@gmail.com>",
+  "license": "MIT"
+}
